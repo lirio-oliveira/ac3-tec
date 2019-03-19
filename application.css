@@ -1,0 +1,24 @@
+body {
+  width: 95%;
+  max-width: 800px;
+  margin:auto;
+  background: url(bg.jpg) center;
+
+  font-family: sans-serif;
+  line-height: 1.5
+  color: white;
+  font-size: 25;
+
+}
+.band name{
+  margin: 0;
+  text-align: center;
+}
+.hand line{
+  margin: 0;
+  text-align: center;
+}
+.logo{
+  margin: 0;
+  text-align: center;
+}
